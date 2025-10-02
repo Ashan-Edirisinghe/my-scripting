@@ -1,2 +1,2 @@
-# akd
-anura kumara webpage
+# myscripts
+real world scripting projects

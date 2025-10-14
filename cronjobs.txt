@@ -1,0 +1,8 @@
+ crontab -e  //to open editor
+
+every month every day evry week at 20:21 script will run
+ 21 20 * * * /home/script/ping-script > output-ping
+
+ to add to mail
+
+ 21 20 * * * /home/script/ping-script | mail -s "ip conectivity" emailadres
